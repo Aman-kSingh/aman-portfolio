@@ -313,7 +313,7 @@ export default function Hero() {
       <div className="relative w-full h-full rounded-3xl overflow-hidden">
         {/* Your Photo */}
         <img 
-          src="/Aman.JPG"
+          src="/aman.jpg"
           alt="Aman Kumar" 
           className="absolute inset-0 w-full h-full object-cover"
         />
