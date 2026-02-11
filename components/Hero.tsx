@@ -176,8 +176,8 @@ export default function Hero() {
               <div className="flex gap-3">
                 <SocialLink href="https://github.com/Aman-kSingh" icon={<FiGithub />} label="GitHub" />
                 <SocialLink href="https://www.linkedin.com/in/aman-singh-19q8/" icon={<FiLinkedin />} label="LinkedIn" />
-                <SocialLink href="https://twitter.com/yourusername" icon={<FiTwitter />} label="Twitter" />
-                <SocialLink href="https://instagram.com/yourusername" icon={<FiInstagram />} label="Instagram" />
+                <SocialLink href="https://x.com/AmanSinghCodes" icon={<FiTwitter />} label="Twitter" />
+                <SocialLink href="https://www.instagram.com/aman_singh1201/" icon={<FiInstagram />} label="Instagram" />
               </div>
             </motion.div>
           </div>
@@ -313,7 +313,7 @@ export default function Hero() {
       <div className="relative w-full h-full rounded-3xl overflow-hidden">
         {/* Your Photo */}
         <img 
-          src="/Aman.JPG" 
+          src="/aman.jpg"
           alt="Aman Kumar" 
           className="absolute inset-0 w-full h-full object-cover"
         />
